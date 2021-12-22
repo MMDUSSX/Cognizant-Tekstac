@@ -1,0 +1,74 @@
+ h1{
+     text-align: center;
+     color: #FF00FF;
+     font-style: italic;
+ }
+
+ table{
+     text-align: left;
+     margin-left: 35%;
+     background-color: #F0F0F0;
+ }
+ 
+ td{
+     text-align: center;
+ 
+ }
+ 
+ caption {
+ text-align: left;
+ font-weight: bold;
+ 	
+ }
+ 
+ 
+ .theader {
+ 	color: #ffffff;
+ 	 background-color: #800000;
+ 	
+ }
+ 
+ .tr1{
+     
+ 	 background-color: #FF0080;
+ 
+     
+ }
+ 
+ .tr2{
+     
+ 	 /* Wrtie code for css values here */ 
+ 
+     
+ }
+ 
+ #ex1, #vg1{
+     
+ 	 background-color: #00FF00;
+ 
+     
+ }
+ 
+ #go1{
+     
+     background-color: #FFFF00; 
+ 
+     
+ }
+ 
+ #av1{
+     
+ 	 background-color: #d3d3d3;
+ 	 color: #ffffff;
+ 
+     
+ }
+ 
+  #ba1{
+      
+   background-color: #FF0000;
+   color: #ffffff;
+      
+  }
+
+ 
