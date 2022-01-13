@@ -1,14 +1,22 @@
 # Tekstac Solutions
 
-This repository contains solutions of [cognizant tekstack](https://cognizant.tekstac.com) for ADM .NET track 2021. 
+This repository contains solutions of [cognizant tekstack](https://cognizant.tekstac.com) for ADM .NET track 2021.
 
+This repo contains the following solutions to all handson in Dotnet Basic learning path-Stage 1
+
+1. User Interface Design (HTML3,CSS5,Bootstrap,JavaScript,jQuery)
+2. SQL Programming
+3. C# Programming
+4. Unix and Shell Scripting
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
 
-To upload solved hands on please send an email on [mmdussx@protonmail.com](mailto:mmdussx@protonmail.com) or send a pull request.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to test and execute hands on before sening.
+To upload solved handson please send an email to [mmdussx@protonmail.com](mailto:mmdussx@protonmail.com) or send a pull request.
+
+Please make sure to test and execute handson before sending.
 
 ## Support
-For any other query mail me on [mmdussx@protonmail.com](mailto:mmdussx@protonmail.com)
+
+For any other query mail me at [mmdussx@protonmail.com](mailto:mmdussx@protonmail.com)

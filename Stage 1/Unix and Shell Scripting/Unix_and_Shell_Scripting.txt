@@ -1,0 +1,74 @@
+ls -rt
+---------------- List of Files 2
+
+ls -m #provide the option to list the contents of the current directories in comma seperated fashion
+-------------------- List of Files 3
+
+cp livingthings/birds/flyingbirds/eider livingthings/animals/mammals/
+-------------------------Copy File 5
+   
+cp livingthings/birds/flyingbirds/eagle livingthings/birds/nonflyingbirds/
+--------------------------------Copy File - 6
+
+cp -rf livingthings/birds livingthings/plants
+---------------------------------------Copy Directory
+
+cp -ir mydir/colors/basic mydir/colors/blended mydir/shape/
+----------------------------------------------------Copy Complete Directory
+
+mv mydir/animals/mammals/dog mydir/shape
+----------------------------------------Move File 1
+
+mv mydir/animals/reptiles/snakes mydir/shape/
+----------------------------------- Move File 2
+
+grep ^echo teknoscript.txt
+----------------------Find string 7
+
+grep -v ^# teknoscript.txt
+--------------------Find string 8
+
+grep ';$' employee.txt
+-------------------Grep Command - 1
+
+grep -v ';$' employee.txt
+-----------------------Grep Command - 2
+
+#!/bin/sh
+for ((i=1;i<=5;i++))
+do
+for ((j=1;j<=i;j++))
+do
+   echo -e  "$i\c"
+done
+echo ""
+done
+--------------------------------------Script - Pattern Printing
+
+awk -F'|' '
+   $3 == "Male"   { print >> "male_nominee.txt"   }
+   $3 == "Female" { print >> "female_nominee.txt" }
+          ' names.txt
+------------------------------------------------------------------ ShellScripting
+
+for F in ${*}
+do
+   echo
+   c=$( wc -c < ${F})
+   echo "Number of characters in ${F} is $c"
+   echo
+   w=$( wc -w < ${F} )
+   echo "Number of words in ${F} is $w"
+   echo
+   l=$( wc -l < ${F})
+   echo "Number of lines in ${F} is $l"
+done
+------------------------------------------------------------------------ Script to Count
+
+
+
+
+
+
+
+
