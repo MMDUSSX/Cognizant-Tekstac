@@ -2,12 +2,15 @@
 
 This repository contains solutions of [cognizant tekstack](https://cognizant.tekstac.com) for ADM .NET track 2021.
 
-This repo contains the following solutions to all handson in Dotnet Basic learning path-Stage 1
+This repo contains following solutions to following handson in
+
+# Dotnet Basic learning path - Stage 1
 
 1. User Interface Design (HTML3,CSS5,Bootstrap,JavaScript,jQuery)
 2. SQL Programming
 3. C# Programming
 4. Unix and Shell Scripting
+5. Design Principles and Patterns
 
 ## Contributing
 
