@@ -6,5 +6,5 @@ $(".add-row").click(function(){
 });
 
 $(".delete-row").click(function(){
-    $('input:checked').parents("tr").remove();
+    $('tr input:checked').remove();
 });
